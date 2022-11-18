@@ -109,20 +109,20 @@
  <!--        Jetty web application support
       https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-webapp 
   -->  
-         <dependency>
+<!--         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
             <version>9.4.15.v20190215</version>
         </dependency>
- <!--         Distribution Assemblies       
+ &lt;!&ndash;         Distribution Assemblies
          https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-distribution 
- -->  
+ &ndash;&gt;
          <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-distribution</artifactId>
             <version>9.4.15.v20190215</version>
             <type>pom</type>
-        </dependency>
+        </dependency>-->
 
 
     </dependencies>
